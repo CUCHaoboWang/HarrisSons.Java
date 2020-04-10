@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contactManager>
+    <database>
+        <sqlServer>
+            <type>SQL Server</type>
+            <host>127.0.0.1</host>
+            <name>TEST_2017_SQLServer</name>
+            <user>881fdf7d77010670</user>
+            <password>881fdf7d77010670</password>
+        </sqlServer>
+        <mySql>
+            <type>MySQL</type>
+            <host>harrissonsdb.cewsoho8wmni.us-east-1.rds.amazonaws.com</host>
+            <name>HarrisSonsDB</name>
+            <user>585f800d9bc866f0</user>
+            <password>634d65e4a537098e2e6f2979b7054953</password>
+        </mySql>
+        <using>
+            <type>MySQL</type>
+        </using>
+    </database>
+</contactManager>

@@ -1,0 +1,36 @@
+14:20:30.163 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+14:20:30.229 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+14:46:10.591 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+14:46:10.667 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+14:48:45.825 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+14:48:45.912 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+14:51:32.383 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+14:51:32.459 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+15:07:04.817 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+15:07:07.094 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:15:38.962 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:15:43.115 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:18:25.468 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:18:27.687 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:24:16.036 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:24:18.102 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:24:27.725 [AWT-EventQueue-0] ERROR c.h.c.Helpers.DbToolMySQL - DES Error:java.lang.NumberFormatException: For input string: "mi"
+22:28:42.267 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:28:44.583 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:35:05.507 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:35:07.638 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:38:30.114 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+22:38:32.211 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+22:39:10.363 [AWT-EventQueue-0] ERROR c.h.c.Helpers.DbToolMySQL - DES Error:java.lang.NumberFormatException: For input string: "mi"
+23:09:03.849 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:09:05.954 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+23:10:05.155 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:10:07.220 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+23:14:58.859 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:15:01.037 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+23:23:26.168 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:23:26.829 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+23:30:58.060 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:30:58.695 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
+23:32:30.901 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitStart
+23:32:31.569 [AWT-EventQueue-0] INFO  com.harrissons.contactmanager.App - ==================AppInitEnd
