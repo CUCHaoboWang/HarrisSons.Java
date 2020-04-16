@@ -48,7 +48,6 @@ public class DbToolMySQL {
      */
     private void loadConfig() {
         try {
-            //String dbClassName = "com.mysql.jdbc.Driver";
             String dbClassName = "com.mysql.cj.jdbc.Driver";
             DBUrl = ToolConsts.CONFIGER.getHostMySQL();
             DBName = ToolConsts.CONFIGER.getNameMySQL();

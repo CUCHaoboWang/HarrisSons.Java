@@ -38,6 +38,9 @@ public class ToolConsts {
     public final static String XPATH_USER_MYSQL = "//contactManager/database/mySql/user";
     public final static String XPATH_PASSWORD_MYSQL = "//contactManager/database/mySql/password";
 
+    public final static String XPATH_TEST_FIELD = "//contactManager/test/text";
+
+
     /**
      * Log File Path
      */

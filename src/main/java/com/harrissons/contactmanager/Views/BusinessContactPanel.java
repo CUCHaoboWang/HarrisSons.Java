@@ -199,7 +199,7 @@ public class BusinessContactPanel extends JPanel {
                 NavBarPanel.SwitchToBusinessContactManagePanel();
                 BusinessContactManagePanel.setContent(selectedContact);
             } else {
-                JOptionPane.showMessageDialog(App.personalContactPanel,
+                JOptionPane.showMessageDialog(App.businessContactPanel,
                         "Nothing Selected",
                         "Warning", JOptionPane.WARNING_MESSAGE);
             }
@@ -207,7 +207,7 @@ public class BusinessContactPanel extends JPanel {
 
         buttonDeleteContact.addActionListener(e -> {
             if (tableContact.getSelectedRowCount() > 0) {
-                int answer = JOptionPane.showConfirmDialog(App.personalContactPanel,
+                int answer = JOptionPane.showConfirmDialog(App.businessContactPanel,
                         "Are you sure to delete this contact?",
                         "Warning", 2);
                 if (answer == 0) {
@@ -236,7 +236,7 @@ public class BusinessContactPanel extends JPanel {
         buttonSearchContact.addActionListener(e -> {
             String text = textFieldSearch.getText();
             if (text.isEmpty()) {
-                JOptionPane.showMessageDialog(App.personalContactPanel,
+                JOptionPane.showMessageDialog(App.businessContactPanel,
                         "Nothing Entered",
                         "Warning", JOptionPane.WARNING_MESSAGE);
             } else {

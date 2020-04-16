@@ -15,7 +15,7 @@ public class IconButton extends JButton {
     private String tip;
 
     /**
-     * 构造
+     * Constructor
      *
      * @param iconNormal  normal icon
      * @param iconEnable  enabled icon

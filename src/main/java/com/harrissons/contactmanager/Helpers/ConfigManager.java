@@ -91,6 +91,15 @@ public class ConfigManager {
         writeToXml();
     }
 
+    public String getTestField() {
+        return this.document.selectSingleNode(ToolConsts.XPATH_TEST_FIELD).getText();
+    }
+
+    public void setTestField(String type) throws Exception {
+        this.document.selectSingleNode(ToolConsts.XPATH_TEST_FIELD).setText(type);
+        writeToXml();
+    }
+
     public String getTypeSqlServer() {
         return this.document.selectSingleNode(ToolConsts.XPATH_TYPE_SQLSERVER).getText();
     }
